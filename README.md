@@ -1,0 +1,2 @@
+# blog
+markdown type document
